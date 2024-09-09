@@ -40,16 +40,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.AkarKuadratKt">
+  <component name="RunManager" selected="Kotlin.FungsitanpaReturnKt">
     <configuration name="AkarKuadratKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AkarKuadratKt" />
-      <module name="PemrogramanKotlinLanjutan" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ElvisOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ElvisOperatorKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,6 +62,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FungsitanpaReturnKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FungsitanpaReturnKt" />
+      <module name="PemrogramanKotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LuasdanKelilingLingkaranKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LuasdanKelilingLingkaranKt" />
       <module name="PemrogramanKotlinLanjutan" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FungsitanpaReturnKt" />
         <item itemvalue="Kotlin.AkarKuadratKt" />
         <item itemvalue="Kotlin.LuasdanKelilingLingkaranKt" />
         <item itemvalue="Kotlin.FungsiMathKt" />
         <item itemvalue="Kotlin.ExceptionHandlingKt" />
-        <item itemvalue="Kotlin.ElvisOperatorKt" />
       </list>
     </recent_temporary>
   </component>
