@@ -40,9 +40,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.WhenKalkulatorKt">
-    <configuration name="Percabangan1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Percabangan1Kt" />
+  <component name="RunManager" selected="Kotlin.For_LoopKt">
+    <configuration name="For_LoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="For_LoopKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.For_LoopKt" />
         <item itemvalue="Kotlin.WhenKalkulatorKt" />
         <item itemvalue="Kotlin.WhenKt" />
         <item itemvalue="Kotlin.PercabanganKalkulatorKt" />
         <item itemvalue="Kotlin.Percabangan2Kt" />
-        <item itemvalue="Kotlin.Percabangan1Kt" />
       </list>
     </recent_temporary>
   </component>
