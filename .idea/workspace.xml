@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f973472f-7c94-4ac8-8b78-1f74980fff9a" name="Changes" comment="Add For-LoopPerkalian.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/For-LoopKalkulatorEksponen.kt" afterDir="false" />
+    <list default="true" id="f973472f-7c94-4ac8-8b78-1f74980fff9a" name="Changes" comment="Add WhiledanDo-While.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/WhileLoopKalkulator.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.WhiledanDo_WhileKt">
+  <component name="RunManager" selected="Kotlin.WhileLoopKalkulatorKt">
     <configuration name="For_LoopKalkulatorEksponenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="For_LoopKalkulatorEksponenKt" />
       <module name="PemrogramanKotlinLanjutan" />
@@ -62,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhenKalkulatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhenKalkulatorKt" />
+    <configuration name="WhileLoopKalkulatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileLoopKalkulatorKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.WhileLoopKalkulatorKt" />
         <item itemvalue="Kotlin.WhiledanDo_WhileKt" />
         <item itemvalue="Kotlin.For_LoopKalkulatorEksponenKt" />
         <item itemvalue="Kotlin.For_LoopPerkalianKt" />
         <item itemvalue="Kotlin.For_LoopKt" />
-        <item itemvalue="Kotlin.WhenKalkulatorKt" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +235,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725885270239</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Add For-LoopKalkulatorEksponen.kt">
+      <created>1725885629608</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1725885629608</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Add WhiledanDo-While.kt">
+      <created>1725885851276</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1725885851276</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -259,6 +273,8 @@
     <MESSAGE value="Add WhenKalkulator.kt" />
     <MESSAGE value="Add For-Loop.kt" />
     <MESSAGE value="Add For-LoopPerkalian.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add For-LoopPerkalian.kt" />
+    <MESSAGE value="Add For-LoopKalkulatorEksponen.kt" />
+    <MESSAGE value="Add WhiledanDo-While.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add WhiledanDo-While.kt" />
   </component>
 </project>
