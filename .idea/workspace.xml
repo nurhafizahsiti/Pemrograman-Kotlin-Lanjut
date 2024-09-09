@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f973472f-7c94-4ac8-8b78-1f74980fff9a" name="Changes" comment="Add ArrayMethod.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Array2Dimensi.kt" afterDir="false" />
+    <list default="true" id="f973472f-7c94-4ac8-8b78-1f74980fff9a" name="Changes" comment="Add Array2Dimensi.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayMultidimensi.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -39,7 +40,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Array2DimensiKt">
+  <component name="RunManager" selected="Kotlin.ArrayMultidimensiKt">
     <configuration name="Array2DimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array2DimensiKt" />
       <module name="PemrogramanKotlinLanjutan" />
@@ -47,15 +48,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayKt" />
+    <configuration name="ArrayMethodKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayMethodKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayMethodKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayMethodKt" />
+    <configuration name="ArrayMultidimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayMultidimensiKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArrayMultidimensiKt" />
         <item itemvalue="Kotlin.Array2DimensiKt" />
         <item itemvalue="Kotlin.ArrayMethodKt" />
         <item itemvalue="Kotlin.ArrayPrimitiveKt" />
         <item itemvalue="Kotlin.TemplateArrayKt" />
-        <item itemvalue="Kotlin.ArrayKt" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725874022319</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add Array2Dimensi.kt">
+      <created>1725874392911</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725874392911</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -130,6 +138,7 @@
     <MESSAGE value="Add TemplateArray.kt" />
     <MESSAGE value="Add ArrayPrimitive.kt" />
     <MESSAGE value="Add ArrayMethod.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ArrayMethod.kt" />
+    <MESSAGE value="Add Array2Dimensi.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Array2Dimensi.kt" />
   </component>
 </project>
