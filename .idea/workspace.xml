@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f973472f-7c94-4ac8-8b78-1f74980fff9a" name="Changes" comment="Add Null.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Operator.kt" afterDir="false" />
+    <list default="true" id="f973472f-7c94-4ac8-8b78-1f74980fff9a" name="Changes" comment="Add ElvisOperator.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExceptionHandling.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,16 +40,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ElvisOperatorKt">
-    <configuration name="BreakdanContinueLabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakdanContinueLabelKt" />
+  <component name="RunManager" selected="Kotlin.ExceptionHandlingKt">
+    <configuration name="ElvisOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ElvisOperatorKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ElvisOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ElvisOperatorKt" />
+    <configuration name="ExceptionHandlingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandlingKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ExceptionHandlingKt" />
         <item itemvalue="Kotlin.ElvisOperatorKt" />
         <item itemvalue="Kotlin.SafeCallsKt" />
         <item itemvalue="Kotlin.OperatorKt" />
         <item itemvalue="Kotlin.NullKt" />
-        <item itemvalue="Kotlin.BreakdanContinueLabelKt" />
       </list>
     </recent_temporary>
   </component>
@@ -284,13 +284,31 @@
       <option name="project" value="LOCAL" />
       <updated>1725887985503</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Add Operator.kt">
+      <created>1725888295362</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1725888295362</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Add SafeCalls.kt">
+      <created>1725888461541</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1725888461541</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Add ElvisOperator.kt">
+      <created>1725888581244</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1725888581244</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add ArrayPrimitive.kt" />
-    <MESSAGE value="Add ArrayMethod.kt" />
-    <MESSAGE value="Add Array2Dimensi.kt" />
     <MESSAGE value="Add ArrayMultidimensi.kt" />
     <MESSAGE value="Add Collections.kt" />
     <MESSAGE value="Add ListOf.kt" />
@@ -313,6 +331,9 @@
     <MESSAGE value="Add ReturnpadaFor-Loop.kt" />
     <MESSAGE value="Add BreakdanContinueLabel.kt" />
     <MESSAGE value="Add Null.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Null.kt" />
+    <MESSAGE value="Add Operator.kt" />
+    <MESSAGE value="Add SafeCalls.kt" />
+    <MESSAGE value="Add ElvisOperator.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ElvisOperator.kt" />
   </component>
 </project>
