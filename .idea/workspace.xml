@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f973472f-7c94-4ac8-8b78-1f74980fff9a" name="Changes" comment="Add When.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/WhenKalkulator.kt" afterDir="false" />
+    <list default="true" id="f973472f-7c94-4ac8-8b78-1f74980fff9a" name="Changes" comment="Add For-Loop.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/For-LoopPerkalian.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.For_LoopKt">
+  <component name="RunManager" selected="Kotlin.For_LoopPerkalianKt">
     <configuration name="For_LoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="For_LoopKt" />
       <module name="PemrogramanKotlinLanjutan" />
@@ -48,8 +48,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Percabangan2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Percabangan2Kt" />
+    <configuration name="For_LoopPerkalianKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="For_LoopPerkalianKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.For_LoopPerkalianKt" />
         <item itemvalue="Kotlin.For_LoopKt" />
         <item itemvalue="Kotlin.WhenKalkulatorKt" />
         <item itemvalue="Kotlin.WhenKt" />
         <item itemvalue="Kotlin.PercabanganKalkulatorKt" />
-        <item itemvalue="Kotlin.Percabangan2Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +214,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725884057425</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Add WhenKalkulator.kt">
+      <created>1725884603218</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1725884603218</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Add For-Loop.kt">
+      <created>1725884838820</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1725884838820</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -235,6 +249,8 @@
     <MESSAGE value="Add Percabangan2.kt" />
     <MESSAGE value="Add PercabanganKalkulator.kt" />
     <MESSAGE value="Add When.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add When.kt" />
+    <MESSAGE value="Add WhenKalkulator.kt" />
+    <MESSAGE value="Add For-Loop.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add For-Loop.kt" />
   </component>
 </project>
