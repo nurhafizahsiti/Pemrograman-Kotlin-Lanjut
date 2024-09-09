@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f973472f-7c94-4ac8-8b78-1f74980fff9a" name="Changes" comment="Add LuasdanKelilingLingkaran.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AkarKuadrat.kt" afterDir="false" />
+    <list default="true" id="f973472f-7c94-4ac8-8b78-1f74980fff9a" name="Changes" comment="Add FungsitanpaReturn.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsidenganReturn.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.FungsitanpaReturnKt">
+  <component name="RunManager" selected="Kotlin.FungsidenganReturnKt">
     <configuration name="AkarKuadratKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AkarKuadratKt" />
       <module name="PemrogramanKotlinLanjutan" />
@@ -48,15 +48,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionHandlingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandlingKt" />
+    <configuration name="FungsiMathKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FungsiMathKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FungsiMathKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FungsiMathKt" />
+    <configuration name="FungsidenganReturnKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FungsidenganReturnKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FungsidenganReturnKt" />
         <item itemvalue="Kotlin.FungsitanpaReturnKt" />
         <item itemvalue="Kotlin.AkarKuadratKt" />
         <item itemvalue="Kotlin.LuasdanKelilingLingkaranKt" />
         <item itemvalue="Kotlin.FungsiMathKt" />
-        <item itemvalue="Kotlin.ExceptionHandlingKt" />
       </list>
     </recent_temporary>
   </component>
@@ -326,12 +326,24 @@
       <option name="project" value="LOCAL" />
       <updated>1725889611175</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Add AkarKuadrat.kt">
+      <created>1725889918837</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1725889918837</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Add FungsitanpaReturn.kt">
+      <created>1725890128847</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1725890128847</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add MutableListOf.kt" />
-    <MESSAGE value="Add ArrayListOf.kt" />
     <MESSAGE value="Add Set.kt" />
     <MESSAGE value="Add Map.kt" />
     <MESSAGE value="Add Ranges.kt" />
@@ -355,6 +367,8 @@
     <MESSAGE value="Add ExceptionHandling.kt" />
     <MESSAGE value="Add FungsiMath.kt" />
     <MESSAGE value="Add LuasdanKelilingLingkaran.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add LuasdanKelilingLingkaran.kt" />
+    <MESSAGE value="Add AkarKuadrat.kt" />
+    <MESSAGE value="Add FungsitanpaReturn.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add FungsitanpaReturn.kt" />
   </component>
 </project>
