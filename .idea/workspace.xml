@@ -40,9 +40,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.SingleExpressionFunctionsKt">
-    <configuration name="AkarKuadratKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AkarKuadratKt" />
+  <component name="RunManager" selected="Kotlin.ArgumenDefaultFungsiKt">
+    <configuration name="ArgumenDefaultFungsiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArgumenDefaultFungsiKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArgumenDefaultFungsiKt" />
         <item itemvalue="Kotlin.SingleExpressionFunctionsKt" />
         <item itemvalue="Kotlin.PairdenganReturnKt" />
         <item itemvalue="Kotlin.FungsidenganReturnKt" />
         <item itemvalue="Kotlin.FungsitanpaReturnKt" />
-        <item itemvalue="Kotlin.AkarKuadratKt" />
       </list>
     </recent_temporary>
   </component>
