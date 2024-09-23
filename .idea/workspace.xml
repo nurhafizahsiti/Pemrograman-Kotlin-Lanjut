@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f973472f-7c94-4ac8-8b78-1f74980fff9a" name="Changes" comment="Add EkspresiLambda.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayStandardKotlin.kt" afterDir="false" />
+    <list default="true" id="f973472f-7c94-4ac8-8b78-1f74980fff9a" name="Changes" comment="Add ArrayStandardKotlin.kt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ArrayStandardKotlinKt">
+  <component name="RunManager" selected="Kotlin.PemeriksaanNilaiNullKt">
     <configuration name="ArgumenDefaultFungsiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArgumenDefaultFungsiKt" />
       <module name="PemrogramanKotlinLanjutan" />
@@ -49,22 +48,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayKt" />
-      <module name="PemrogramanKotlinLanjutan" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayStandardKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayStandardKotlinKt" />
-      <module name="PemrogramanKotlinLanjutan" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="EkspresiLambdaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EkspresiLambdaKt" />
+      <module name="PemrogramanKotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PairdenganReturnKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PairdenganReturnKt" />
+      <module name="PemrogramanKotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PemeriksaanNilaiNullKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PemeriksaanNilaiNullKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ArrayStandardKotlinKt" />
-        <item itemvalue="Kotlin.ArrayKt" />
+        <item itemvalue="Kotlin.PemeriksaanNilaiNullKt" />
         <item itemvalue="Kotlin.EkspresiLambdaKt" />
         <item itemvalue="Kotlin.ArgumenDefaultFungsiKt" />
         <item itemvalue="Kotlin.SingleExpressionFunctionsKt" />
+        <item itemvalue="Kotlin.PairdenganReturnKt" />
       </list>
     </recent_temporary>
   </component>
@@ -376,11 +375,17 @@
       <option name="project" value="LOCAL" />
       <updated>1725948057022</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Add ArrayStandardKotlin.kt">
+      <created>1727084744707</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1727084744707</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add PercabanganKalkulator.kt" />
     <MESSAGE value="Add When.kt" />
     <MESSAGE value="Add WhenKalkulator.kt" />
     <MESSAGE value="Add For-Loop.kt" />
@@ -405,6 +410,29 @@
     <MESSAGE value="Add SingleExpressionFunctions.kt" />
     <MESSAGE value="Add ArgumenDefaultFungsi.kt" />
     <MESSAGE value="Add EkspresiLambda.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add EkspresiLambda.kt" />
+    <MESSAGE value="Add ArrayStandardKotlin.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ArrayStandardKotlin.kt" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Percabangan1.kt</url>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/PairdenganReturn.kt</url>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
